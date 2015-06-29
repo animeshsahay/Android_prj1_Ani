@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Animesh Sahay(developer of the App)is the Coolest person on the earth.If u Want to make him happy,just keep him treating(NON-VEG),and he is gonna make ur life simpler!!"
+        android:id="@+id/textView" />
+</LinearLayout>
